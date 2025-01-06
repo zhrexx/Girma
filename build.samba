@@ -1,0 +1,4 @@
+default:
+    enable_verbose();
+    compile("girma.c", "girma");
+

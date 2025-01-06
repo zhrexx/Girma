@@ -1,0 +1,8 @@
+
+#use std::io;
+
+int main() {
+    printf("test");
+
+    return 0;
+}
